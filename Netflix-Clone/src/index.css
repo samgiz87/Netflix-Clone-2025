@@ -1,4 +1,4 @@
-/* @import url(https://fonts.googleapis.com/css2);
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 *{
   margin: 0;
@@ -75,4 +75,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-} */
+}

@@ -1,4 +1,4 @@
-import axios from axios
+import axios from "axios"
 
 let instance = axios.create({
 baseURL:"https://api.themoviedb.org/3",
