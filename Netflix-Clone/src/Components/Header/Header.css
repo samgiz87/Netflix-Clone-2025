@@ -40,6 +40,7 @@
     align-items: center;
     list-style: none;
     cursor: pointer;
+    margin-top: 60px;
   }
   .header_right ul {
     width: 30vh;
@@ -48,4 +49,5 @@
     align-items: center;
     list-style: none;
     cursor: pointer;
+    margin-top: 60px;
   }

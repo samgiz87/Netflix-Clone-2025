@@ -3,15 +3,16 @@
     color: grey;
     display: flex;
     justify-content: center;
+    margin-top: ;
 }
 
 .footer-inner-container{
-    width: 60%;
+    width: 80%;
     background-color: black;
 }
 
 .footer-icons{
-    /* background-color: blue; */
+    margin-bottom: 20px;
     width: 12%;
     display: flex;
     justify-content: space-between;
@@ -22,6 +23,8 @@
 .footer-data {
     display: flex;
     justify-content: space-between;
+    
+   
 }
 
 .footer-data ul{
